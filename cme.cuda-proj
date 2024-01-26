@@ -1,0 +1,13 @@
+{
+  "nodes": [
+    "{ProjDir}"
+  ],
+  "vars": [],
+  "mainfile": "",
+  "unfold": [
+    "/home/admin/anp.net/cme",
+    "/home/admin/anp.net/cme/matrix",
+    "/home/admin/anp.net/cme/matrix/gnu",
+    "/home/admin/anp.net/cme/matrix/gnu/bin"
+  ]
+}
